@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>JavaScript Random Number</h2>
+<p id="random_number"></p>
+<script>
+document.getElementById("random_number").innerHTML = Math.random();
+</script>
+</body>
+</html>
